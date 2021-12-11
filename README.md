@@ -7,7 +7,7 @@ The models (BRT and Maxent) were then run with the R script.
 
 Both scripts were written by me for the Spatial Distribution Modeling course of the EAGLE M.Sc. at Uni Würzburg.
 
-Results poster:
+#Results
 
 ![Poster_SpatialModeling](https://user-images.githubusercontent.com/47328647/145679051-6061a021-3ab8-4438-a9f7-70dde8614879.png)
 
